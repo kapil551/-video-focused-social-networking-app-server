@@ -7,3 +7,19 @@ TLDR: Please don't sue me.
 
 Disclaimer has also been added to the website
 
+## Tools/Technologies Used:
+
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JavaScript
+- Socket.io
+- JWT Authentication
+
+## Features:
+
+## API Endpoints:
+
+## Postman API Testing Screenshots:
+
